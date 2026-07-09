@@ -1,0 +1,4 @@
+Để chạy file DAC
+
+- Lấy Output_V.txt từ folder Verilong_out
+- Lấy Output_Reference.txt từ folder Matlab_out

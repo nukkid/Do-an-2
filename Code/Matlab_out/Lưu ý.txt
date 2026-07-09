@@ -1,0 +1,2 @@
+Để chạy fir_filter_reference thì cần lấy ECG_Input.txt từ folder Input
+

@@ -1,0 +1,9 @@
+1.Link để cài đặt ứng dụng cần thiết để chạy code "https://youtu.be/08S6NxUs-Uo?si=RI_CEoJH5kwyMbxK"
+2. Để chạy được file fir_tb thì phải lấy ECG_Input.txt từ folder Input
+3. chỉ cần 3 file để chạy là fir_filter.v, fir_tb.v và ECG_Input.txt
+
+Lệnh chạy:
+iverilog -o fir_tb.vvp fir_tb.v fir_filter.v    
+vvp fir_tb.vvp
+gtkwave fir_wave.vcd
+
